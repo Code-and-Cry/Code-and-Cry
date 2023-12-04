@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Code-and-Cry
+- 👀 I’m interested in Video Games Manga Anime Coding
+- 🌱 I’m currently learning C++ & C#(i try to)
+- 💞️ I’m looking to collaborate on Unity projects(but i need to learn also)
+- 📫 How to reach me sauciuc.alexandru.liis@gmail.com
